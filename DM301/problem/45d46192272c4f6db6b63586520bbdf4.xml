@@ -1,0 +1,12 @@
+<problem display_name="Example #5" markdown="Approximetly, how many types of cetaceans exist? Enter the number.&#10;&#10;= 90&#10;&#10;[explanation]&#10;There are approximately 90 recognized species of cetaceans, which are marine mammals belonging to the order Cetacea. Cetaceans include whales, dolphins, and porpoises.&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="null" rerandomize="never" showanswer="always" weight="null">
+  <numericalresponse answer="90">
+    <p>Approximetly, how many types of cetaceans exist? Enter the number.</p>
+    <formulaequationinput/>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>There are approximately 90 recognized species of cetaceans, which are marine mammals belonging to the order Cetacea. Cetaceans include whales, dolphins, and porpoises.</p>
+      </div>
+    </solution>
+  </numericalresponse>
+</problem>

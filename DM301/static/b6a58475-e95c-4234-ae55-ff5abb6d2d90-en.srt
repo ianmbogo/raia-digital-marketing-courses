@@ -1,0 +1,324 @@
+0
+00:00:00,960 --> 00:00:03,960
+foreign
+
+1
+00:00:09,380 --> 00:00:14,519
+course this video will show you how the
+
+2
+00:00:12,660 --> 00:00:16,080
+platform works and the basics you need
+
+3
+00:00:14,519 --> 00:00:17,039
+to know to go effortlessly through your
+
+4
+00:00:16,080 --> 00:00:18,779
+courses
+
+5
+00:00:17,039 --> 00:00:20,820
+if at any time you want to skip this
+
+6
+00:00:18,779 --> 00:00:22,859
+video and get a first-hand experience of
+
+7
+00:00:20,820 --> 00:00:24,480
+the course all you have to do is click
+
+8
+00:00:22,859 --> 00:00:27,119
+on the next button that you will find
+
+9
+00:00:24,480 --> 00:00:29,580
+Above and Below on this page don't worry
+
+10
+00:00:27,119 --> 00:00:31,980
+I won't be offended
+
+11
+00:00:29,580 --> 00:00:33,300
+to begin let's look at the top of the
+
+12
+00:00:31,980 --> 00:00:35,399
+page
+
+13
+00:00:33,300 --> 00:00:37,559
+this area is called the navigation bar
+
+14
+00:00:35,399 --> 00:00:39,719
+here you will find the most essential
+
+15
+00:00:37,559 --> 00:00:41,940
+options for navigating your course
+
+16
+00:00:39,719 --> 00:00:44,820
+for example click on the course tab to
+
+17
+00:00:41,940 --> 00:00:46,680
+access the courses catalog and outline
+
+18
+00:00:44,820 --> 00:00:48,059
+clicking on the progress tab will reveal
+
+19
+00:00:46,680 --> 00:00:50,280
+how well you're doing in your studies
+
+20
+00:00:48,059 --> 00:00:52,260
+and exams when you take the demo course
+
+21
+00:00:50,280 --> 00:00:54,360
+we'll provide a simple progress report
+
+22
+00:00:52,260 --> 00:00:56,219
+matching your results
+
+23
+00:00:54,360 --> 00:00:57,780
+in the discussion tab you can
+
+24
+00:00:56,219 --> 00:00:59,699
+communicate with fellow students on
+
+25
+00:00:57,780 --> 00:01:01,379
+topics and projects and interact with
+
+26
+00:00:59,699 --> 00:01:03,600
+the course staff
+
+27
+00:01:01,379 --> 00:01:05,280
+you also may find other tabs containing
+
+28
+00:01:03,600 --> 00:01:07,740
+course announcements or any other
+
+29
+00:01:05,280 --> 00:01:09,960
+resources the course staff wanted to add
+
+30
+00:01:07,740 --> 00:01:12,080
+on the course catalog you will find the
+
+31
+00:01:09,960 --> 00:01:14,520
+entire course starting from the top down
+
+32
+00:01:12,080 --> 00:01:16,740
+typically a course is delivered in
+
+33
+00:01:14,520 --> 00:01:20,060
+sections like chapters divided into
+
+34
+00:01:16,740 --> 00:01:20,060
+subsections and units
+
+35
+00:01:20,640 --> 00:01:24,840
+for example the first section of this
+
+36
+00:01:22,860 --> 00:01:26,939
+course is the introduction and when you
+
+37
+00:01:24,840 --> 00:01:28,080
+click on it it displays the content of
+
+38
+00:01:26,939 --> 00:01:30,060
+the subsection
+
+39
+00:01:28,080 --> 00:01:31,979
+once you click on the subsection title
+
+40
+00:01:30,060 --> 00:01:34,020
+you can access the unit where each
+
+41
+00:01:31,979 --> 00:01:35,820
+class's content is
+
+42
+00:01:34,020 --> 00:01:36,780
+let's now look at the learning sequence
+
+43
+00:01:35,820 --> 00:01:38,939
+bar
+
+44
+00:01:36,780 --> 00:01:41,220
+each unit is represented in an item in
+
+45
+00:01:38,939 --> 00:01:43,200
+the bar above the content page revealing
+
+46
+00:01:41,220 --> 00:01:44,840
+a corresponding learning sequence
+
+47
+00:01:43,200 --> 00:01:47,280
+work your way from left to right
+
+48
+00:01:44,840 --> 00:01:50,220
+learning sequences can contain lectures
+
+49
+00:01:47,280 --> 00:01:52,140
+exercises and interactive lessons you
+
+50
+00:01:50,220 --> 00:01:54,119
+can complete on your schedule
+
+51
+00:01:52,140 --> 00:01:57,060
+its interactive lessons including
+
+52
+00:01:54,119 --> 00:01:58,979
+demonstrations visualizations and
+
+53
+00:01:57,060 --> 00:02:00,420
+virtual environments make the platform
+
+54
+00:01:58,979 --> 00:02:02,399
+fun and unique
+
+55
+00:02:00,420 --> 00:02:03,780
+the platform also supports more
+
+56
+00:02:02,399 --> 00:02:06,060
+traditional question format flight
+
+57
+00:02:03,780 --> 00:02:07,799
+multiple choice but also tests your
+
+58
+00:02:06,060 --> 00:02:10,020
+understanding by allowing you to use
+
+59
+00:02:07,799 --> 00:02:12,720
+simulators and even asking you to write
+
+60
+00:02:10,020 --> 00:02:14,099
+an essay interactive lessons are often
+
+61
+00:02:12,720 --> 00:02:15,060
+graded and contribute to your final
+
+62
+00:02:14,099 --> 00:02:16,620
+grade
+
+63
+00:02:15,060 --> 00:02:18,840
+you can see how the course's questions
+
+64
+00:02:16,620 --> 00:02:21,060
+for gauging your learning process can be
+
+65
+00:02:18,840 --> 00:02:22,080
+auto-graded or give detailed feedback in
+
+66
+00:02:21,060 --> 00:02:24,420
+real time
+
+67
+00:02:22,080 --> 00:02:26,459
+so while a course might be rigorous the
+
+68
+00:02:24,420 --> 00:02:27,420
+tools and visualizations are fun and
+
+69
+00:02:26,459 --> 00:02:29,520
+Interactive
+
+70
+00:02:27,420 --> 00:02:31,080
+finally students like to interact in
+
+71
+00:02:29,520 --> 00:02:33,599
+many ways to get the most out of a
+
+72
+00:02:31,080 --> 00:02:34,920
+course for example by participating in
+
+73
+00:02:33,599 --> 00:02:37,080
+discussion forums
+
+74
+00:02:34,920 --> 00:02:39,540
+engaging with others while taking a
+
+75
+00:02:37,080 --> 00:02:41,519
+course makes you more likely to succeed
+
+76
+00:02:39,540 --> 00:02:43,140
+now that you've seen how easy it is to
+
+77
+00:02:41,519 --> 00:02:45,300
+take a course here experience this
+
+78
+00:02:43,140 --> 00:02:47,160
+introduction course firsthand all you
+
+79
+00:02:45,300 --> 00:02:50,120
+have to do is go to chapter one by
+
+80
+00:02:47,160 --> 00:02:50,120
+clicking the next button
+

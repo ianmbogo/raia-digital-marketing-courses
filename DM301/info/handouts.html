@@ -1,0 +1,76 @@
+<!-- This is the script for building the interactive walkthrough. -->
+<!-- <link rel="stylesheet" type="text/css" href="https://studio.edunext.co/asset-v1:demo-site+DMS+00+type@asset+block@introjs.min.css">
+<script src="https://studio.edunext.co/asset-v1:demo-site+DMS+00+type@asset+block@intro.min.js"></script> -->
+
+<script>
+  $(document).ready(function(){
+    
+    /*****************************************************
+    * This section enables the intro.js text blocks.
+    *****************************************************/
+
+    addNavData();
+    
+    var myWalkthrough = introJs();
+    myWalkthrough.setOption("skipLabel", "Close");
+    myWalkthrough.setOption("prevLabel", "&larr; Previous");
+    myWalkthrough.setOption("doneLabel", "Next page");    
+    myWalkthrough.setOption("hidePrev", true);
+    myWalkthrough.setOption("hideNext", true);
+    myWalkthrough.setOption("exitOnEsc", true);
+    myWalkthrough.setOption("showProgress", true);
+    myWalkthrough.setOption("scrollToElement", true);
+
+    $('#navmaker').on('click tap', function(){
+    	myWalkthrough.start().oncomplete(function() {
+          window.location.href = '../221caa264ebb460393b0c24fb78ebd05/?multipage=true';
+        });
+    });
+    
+  });
+  
+  /**************************************************************
+  * This function adds the data needed for the intro.js text blocks.
+  * We're doing it here rather than in the HTML directly.
+  **************************************************************/
+  function addNavData(){
+    var navmaker = $('#navmaker');
+    navmaker.attr("data-step", "1");
+    navmaker.attr("data-intro", "Let's take a quick walk through the Open edX platform LMS");
+    navmaker.attr("data-position", "bottom");
+
+    var coursetitle = $('.page-header.has-secondary');
+    coursetitle.attr("data-step", "2");
+    coursetitle.attr("data-intro", "This is a simple course with the most common options.");
+    coursetitle.attr("data-position", "top");
+
+    var coursetab = $('.course-tabs').find('a:contains("Course")');
+    coursetab.attr("data-step", "3");
+    coursetab.attr("data-intro", "This is the main tab, where most of the course contents will be found.");
+    coursetab.attr("data-position", "right");
+
+    var courseoutline = $('.block-tree.accordion');
+    courseoutline.attr("data-step", "4");
+    courseoutline.attr("data-intro", "This is the course outline, your entry point for each section, subsection and unit in the course.");
+    courseoutline.attr("data-position", "top");
+
+
+    var discussiontab = $('.course-tabs').find('a:contains("Discussion")');
+    discussiontab.attr("data-step", "5");
+    discussiontab.attr("data-intro", "This tab allows learners to find all discussions in one place.");
+    discussiontab.attr("data-position", "bottom");
+
+    var Progresstab =  $('.course-tabs').find('a:contains("Progress")');
+    Progresstab.attr("data-step", "6");
+    Progresstab.attr("data-intro", "This is where learners can see their course grades and also get their certificates once the course has been completed.");
+    Progresstab.attr("data-position", "bottom");
+
+    var custompagetab =  $('.course-tabs').find('a:contains("Custom Page")');
+    custompagetab.attr("data-step", "7");
+    custompagetab.attr("data-intro", "This Will go to a different page.");
+    custompagetab.attr("data-position", "bottom");
+  }
+
+</script>
+
+<button id="navmaker" class="">Show me around</button>

@@ -1,0 +1,18 @@
+<problem display_name="Example #3" markdown="Enter the numerical value of Pi:&#10;= 3.14159 +- .02&#10;&#10;Enter the number of fingernails on a healthy human hand. For the purposes of this question, please consider the thumb as a finger:&#10;= 5&#10;&#10;[explanation] Pi, or the the ratio between a circle's circumference to its diameter, is an irrational number known to extreme precision. It is value is approximately equal to 3.14.&#10;The index finger, middle finger, ring finger, pinky, and thumb are the five different fingers on a human hand.[explanation] " max_attempts="null" rerandomize="never" showanswer="always" weight="null">
+  <p>Enter the numerical value of Pi:</p>
+  <numericalresponse answer="3.14159">
+    <responseparam type="tolerance" default=".02"/>
+    <formulaequationinput/>
+  </numericalresponse>
+  <p>Enter the number of fingernails on a healthy human hand. For the purposes of this question, please consider the thumb as a finger:</p>
+  <numericalresponse answer="5">
+    <formulaequationinput/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p> Pi, or the the ratio between a circle's circumference to its diameter, is an irrational number known to extreme precision. It is value is approximately equal to 3.14.</p>
+      <p>The index finger, middle finger, ring finger, pinky, and thumb are the five different fingers on a human hand.</p>
+    </div>
+  </solution>
+</problem>

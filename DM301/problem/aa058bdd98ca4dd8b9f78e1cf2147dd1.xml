@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="2" display_name="Question 2" markdown="&gt;&gt;How do you engage with your peers in a course?||Select as many options as you think are correct.&lt;&lt;&#10;&#10;[x] Peer Graded Activities&#10;[ ] Phone call&#10;[x] Discussion forums&#10;&#10;[explanation]&#10;You can connect and engage with your classmates on the platform in different ways, like participating in the discussion forums and through assignments like the Peer Graded Activities.&#10;[explanation]&#10;&#10;" max_attempts="2" weight="1.0">
+<choiceresponse>
+  <label>How do you engage with your peers in a course?</label>
+<description>Select as many options as you think are correct.</description>
+<checkboxgroup>
+    <choice correct="true">Peer Graded Activities</choice>
+    <choice correct="false">Phone call</choice>
+    <choice correct="true">Discussion forums</choice>
+  </checkboxgroup>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>You can connect and engage with your classmates on the platform in different ways, like participating in the discussion forums and through assignments like the Peer Graded Activities.</p>
+
+</div>
+</solution>
+</choiceresponse>
+</problem>

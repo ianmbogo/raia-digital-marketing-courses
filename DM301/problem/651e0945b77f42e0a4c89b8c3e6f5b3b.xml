@@ -1,0 +1,13 @@
+<problem display_name="Example #6" markdown="&#10;Enter the numerical value of Pi:&#10;= 3.14159 +- .02&#10;&#10;[explanation] Pi, or the the ratio between a circle's circumference to its diameter, is an irrational number known to extreme precision. It is value is approximately equal to 3.14. [explanation] " max_attempts="null" rerandomize="never" showanswer="always" weight="null">
+  <numericalresponse answer="3.14159">
+    <p>Enter the numerical value of Pi:</p>
+    <responseparam type="tolerance" default=".02"/>
+    <formulaequationinput/>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p> Pi, or the the ratio between a circle's circumference to its diameter, is an irrational number known to extreme precision. It is value is approximately equal to 3.14. </p>
+      </div>
+    </solution>
+  </numericalresponse>
+</problem>

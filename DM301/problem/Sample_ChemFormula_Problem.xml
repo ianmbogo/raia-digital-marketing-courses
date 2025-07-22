@@ -1,0 +1,20 @@
+<problem display_name="Example #11" markdown="null" rerandomize="never" showanswer="never">
+  <startouttext/>
+  <p>Practice this technique by writing out the following reaction in the box below.</p>
+  <center>\( \text{H}_2\text{SO}_4 \longrightarrow \text{ H}^+ + \text{ HSO}_4^-\)</center>
+  <p> So, you can enter "H2SO4 -&gt; H^+ + HSO4^-". 
+    At the end, click Submit to check your answer.</p>
+  <br/>
+  <customresponse>
+    <chemicalequationinput size="50"/>
+    <answer type="loncapa/python">
+
+if chemcalc.chemical_equations_equal(submission[0], 'H2SO4 -&gt; H^+ + HSO4^-'): 
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+
+</answer>
+  </customresponse>
+  <endouttext/>
+</problem>

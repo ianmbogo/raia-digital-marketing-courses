@@ -1,0 +1,25 @@
+<problem display_name="Example #1" markdown="What color is the open ocean on a sunny day?&#10;&#10;[[yellow, (blue), green]]&#10;&#10;&#10;Which piece of furniture is built for sitting?&#10;&#10;( ) a table&#10;( ) a desk&#10;(x) a chair&#10;( ) a bookshelf&#10;&#10;Which of the following are musical instruments?&#10;&#10;[x] a piano&#10;[ ] a tree&#10;[x] a guitar&#10;[ ] a window&#10;&#10;&#10; " max_attempts="null" rerandomize="never" showanswer="never" weight="null">
+  <p>What color is the open ocean on a sunny day?</p>
+  <optionresponse>
+    <optioninput options="('yellow','blue','green')" correct="blue"/>
+  </optionresponse>
+  <p>Which piece of furniture is built for sitting?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">a table</choice>
+      <choice correct="false">a desk</choice>
+      <choice correct="true">a chair</choice>
+      <choice correct="false">a bookshelf</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Which of the following are musical instruments?</p>
+  <choiceresponse>
+    <checkboxgroup>
+      <choice correct="true">a piano</choice>
+      <choice correct="false">a tree</choice>
+      <choice correct="true">a guitar</choice>
+      <choice correct="false">a window</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <p> </p>
+</problem>

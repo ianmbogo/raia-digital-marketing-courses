@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="2" display_name="Question 3" markdown="&gt;&gt; What is the purpose of the Learning Sequence Bar?||Choose the correct option&lt;&lt;&#10;( ) Here you will find the Course, Progress, and Discussion tabs.&#10;( ) This bar shows you hows the percentage you earned on each assignment in the course.&#10;(x) This bar allows you to move between the pages and contents of the course.&#10;&#10;[explanation]As we talk in the first section of this course, the Learning Sequence Bar allows you to move between the pages and contents.[explanation]" max_attempts="2" weight="1.0">
+<multiplechoiceresponse>
+  <label> What is the purpose of the Learning Sequence Bar?</label>
+<description>Choose the correct option</description>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Here you will find the Course, Progress, and Discussion tabs.</choice>
+    <choice correct="false">This bar shows you hows the percentage you earned on each assignment in the course.</choice>
+    <choice correct="true">This bar allows you to move between the pages and contents of the course.</choice>
+  </choicegroup>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As we talk in the first section of this course, the Learning Sequence Bar allows you to move between the pages and contents.</p>
+</div>
+</solution>
+</multiplechoiceresponse>
+</problem>

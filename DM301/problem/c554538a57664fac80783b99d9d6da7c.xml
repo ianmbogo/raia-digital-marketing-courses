@@ -1,0 +1,14 @@
+<problem display_name="Example #9" markdown="null" max_attempts="null" rerandomize="never" showanswer="always" weight="null">
+  <p>What country is home to the Great Pyramid of Giza as well as the cities
+of Cairo and Memphis? Click the country on the map below.</p>
+  <imageresponse>
+    <imageinput src="https://studio.edx.org/c4x/edX/DemoX/asset/Africa.png" width="600" height="638" rectangle="(338,98)-(412,168)" alt="Map of     Africa"/>
+  </imageresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Egypt is home to not only the Pyramids, Cairo, and Memphis, but also
+    the Sphinx and the ancient Royal Library of Alexandria.</p>
+    </div>
+  </solution>
+</problem>

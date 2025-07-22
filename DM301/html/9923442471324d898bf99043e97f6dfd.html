@@ -1,0 +1,18 @@
+<div>
+<p>Some classes may use huge and detailed graphics depending on the topic. To make it easier to understand, the content can be offered in two versions of those graphics, with the zoomed section showing when you click on the main view. </p>
+</div>
+<p>The example below shows a subset of the biochemical reactions that cells carry out. </p>
+<p>You can view the chemical structures of the molecules by clicking on them. The magnified view also lists the enzymes involved in each step.</p>
+<div class="zooming-image-place" style="position: relative;"><a class="loupe" href="//studio.edx.org/c4x/edX/DemoX/asset/pathways_detail_01.png"> <img alt="magnify" src="//studio.edx.org/c4x/edX/DemoX/asset/pathways_overview_01.png" /> </a>
+<div class="script_placeholder" data-src="//studio.edx.org/c4x/edX/DemoX/asset/jquery.loupeAndLightbox.js"></div>
+<script>// <![CDATA[
+JavascriptLoader.executeModuleScripts($('.zooming-image-place').eq(0), function() {
+  $('.loupe').loupeAndLightbox({
+    width: 350,
+    height: 350,
+    lightbox: false
+  });
+});
+// ]]></script>
+<div id="ap_listener_added"></div>
+</div>

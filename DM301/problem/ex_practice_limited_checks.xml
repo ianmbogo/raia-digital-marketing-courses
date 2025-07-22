@@ -1,0 +1,9 @@
+<problem attempts="10" display_name="Example #7" markdown="null" max_attempts="100" rerandomize="never" showanswer="never">
+  <text>
+    <p>On most cars, how many wheels touch the pavement of the road?</p>
+    <numericalresponse answer="4">
+      <responseparam type="tolerance" default="0.0001%" name="tol" description="Numerical Tolerance"/>
+      <textline/>
+    </numericalresponse>
+  </text>
+</problem>

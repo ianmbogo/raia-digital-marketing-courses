@@ -1,0 +1,84 @@
+{
+    "Course_tempalate_image.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "DMS",
+            "name": "Course_tempalate_image.png",
+            "org": "internal-SD",
+            "revision": null,
+            "run": "00",
+            "tag": "c4x"
+        },
+        "displayname": "Course_tempalate_image.png",
+        "filename": "asset-v1:internal-SD+DMS+00+type@asset+block@Course_tempalate_image.png",
+        "import_path": "Course_tempalate_image.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "internal-SD",
+            "DMS",
+            "thumbnail",
+            "Course_tempalate_image-png.jpg",
+            null
+        ]
+    },
+    "b6a58475-e95c-4234-ae55-ff5abb6d2d90-en.srt": {
+        "contentType": "application/octet-stream",
+        "content_son": {
+            "category": "asset",
+            "course": "DMS",
+            "name": "b6a58475-e95c-4234-ae55-ff5abb6d2d90-en.srt",
+            "org": "internal-SD",
+            "revision": null,
+            "run": "00",
+            "tag": "c4x"
+        },
+        "displayname": "b6a58475-e95c-4234-ae55-ff5abb6d2d90-en.srt",
+        "filename": "asset-v1:internal-SD+DMS+00+type@asset+block@b6a58475-e95c-4234-ae55-ff5abb6d2d90-en.srt",
+        "import_path": "b6a58475-e95c-4234-ae55-ff5abb6d2d90-en.srt",
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "chapter6_pag3.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "DMS",
+            "name": "chapter6_pag3.png",
+            "org": "internal-SD",
+            "revision": null,
+            "run": "00",
+            "tag": "c4x"
+        },
+        "displayname": "chapter6_pag3.png",
+        "filename": "asset-v1:internal-SD+DMS+00+type@asset+block@chapter6_pag3.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "internal-SD",
+            "DMS",
+            "thumbnail",
+            "chapter6_pag3-png.jpg",
+            null
+        ]
+    },
+    "instanthangouts-0.1.0.js": {
+        "contentType": "application/javascript",
+        "content_son": {
+            "category": "asset",
+            "course": "DMS",
+            "name": "instanthangouts-0.1.0.js",
+            "org": "internal-SD",
+            "revision": null,
+            "run": "00",
+            "tag": "c4x"
+        },
+        "displayname": "instanthangouts-0.1.0.js",
+        "filename": "asset-v1:internal-SD+DMS+00+type@asset+block@instanthangouts-0.1.0.js",
+        "import_path": "instanthangouts-0.1.0.js",
+        "locked": false,
+        "thumbnail_location": null
+    }
+}
